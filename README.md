@@ -1,7 +1,6 @@
 ### Hi there my name is Pedro Luna
 
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning game programing using Unity
+- 🌱 I’m currently working as a QA for INDRA
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing all types of games, from tabletop to electronic.
 
